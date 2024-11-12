@@ -1,4 +1,8 @@
 body {
     color:black;
-    background:slategray
+    background:slategray;
 }
+
+header {
+    border: solid 2px black
+ }
