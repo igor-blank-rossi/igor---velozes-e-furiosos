@@ -2,10 +2,23 @@ body {
     color:black;
     background:slategray;
     margin: 5px;
+    font-family: "Bebas Neue", sans-serif;
 }
 
 header {
     border: solid 2px black;
     padding: 15px;
     font-size: 38px;
+ }
+
+ section{
+    background: gray;
+    padding-bottom: 75px;
+    padding-top: 75px;
+    display: flex;
+    justify-content: center;
+ }
+
+ .chamada-texto {
+    margin-right: %4;
  }
